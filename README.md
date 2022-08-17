@@ -1,1 +1,1 @@
-# Machine-Learning-for-Beginners
+# Python & Machine Learning Essentials
